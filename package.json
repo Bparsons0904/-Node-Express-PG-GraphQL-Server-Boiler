@@ -4,7 +4,7 @@
   "description": "Base Server",
   "main": "index.js",
   "dependencies": {
-    "apollo-server": "^2.17.0",
+    "apollo-server": "^2.25.3",
     "apollo-server-express": "^2.17.0",
     "bcrypt": "^4.0.1",
     "cors": "^2.8.5",
